@@ -1,0 +1,19 @@
+body{
+    margin: 0px;
+    background: url(FondoDash.png);
+    background-size: 100vw 100vh;
+    background-attachment: fixed;
+}
+div{
+    position: absolute;
+    width: 200px;
+    height: 100%;
+    background-color: rgba(53, 53, 67,0.9);
+}
+h2{
+    text-align: center;
+    padding: 20px 15px;
+    box-sizing: border-box;
+    border-radius:7px;
+    background-color: rgb(255, 254, 254);
+}
